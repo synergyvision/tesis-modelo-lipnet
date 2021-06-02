@@ -57,6 +57,6 @@ tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 Theano==1.0.4
 tqdm==4.45.0
-urllib3==1.25.9
+urllib3==1.26.5
 Werkzeug==1.0.1
 wrapt==1.12.1

@@ -30,7 +30,7 @@ kiwisolver==1.1.0
 Markdown==3.1.1
 matplotlib==2.2.5
 mock==3.0.5
-nltk==3.2.2
+nltk==3.6.3
 numpy==1.16.6
 oauthlib==3.1.0
 opencv-python==4.2.0.32

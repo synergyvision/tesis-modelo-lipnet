@@ -52,7 +52,7 @@ sk-video==1.1.10
 subprocess32==3.5.4
 tensorboard==2.1.0
 tensorflow-estimator==2.1.0
-tensorflow-gpu==2.1.0
+tensorflow-gpu==2.5.3
 tensorflow-tensorboard==0.4.0
 termcolor==1.1.0
 Theano==1.0.4
